@@ -27,4 +27,5 @@
 5.	Αισθητήρας Υπερήχων 5χ3€=15€
 6.	Jumper Wires 15cm 2€
 7.	Edge Connector Breakout Board for BBC micro:bit - Pre-built 6€
+
 Σύνολο 55€
